@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "islandgrove@gmail.com",
+    "longName": "MOVEMENTTRACK",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "MOVEMENTTRACK",
+    "uuid": "63ec0d31-aced-4af1-b50d-b8e77a463c01",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
